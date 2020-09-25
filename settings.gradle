@@ -1,0 +1,2 @@
+rootProject.name='Ex58Notification'
+include ':app'
